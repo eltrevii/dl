@@ -7,7 +7,10 @@
     "vegas20": "crack/blob/main/vegas/20/out/vegas20crack--aritz331_.exe",
     "sib": "crack/blob/main/startisback/sib.exe",
     "rs": "revs/blob/main/fudrs.bat",
-    "novirus": "misc/blob/main/novirus.bat" 
+    "novirus": "misc/blob/main/novirus.bat"
+  },
+  "cust": {
+    "mpc": "github.com/clsid2/mpc-hc/releases"
   },
   "lh": {
     "vanced": "lab",
@@ -15,6 +18,7 @@
     "vegas20": "hub",
     "sib": "hub",
     "rs": "hub",
-    "novirus": "hub"
+    "novirus": "hub",
+    "mpc": "cust"
   }
 }
