@@ -19,7 +19,7 @@ function getSrc(lh) {
 function read(lh, qv) {
   const url = "https://raw.githubusercontent.com/eltrevii/dl/refs/heads/main/links.json";
   return fetch(url)
-    .then((response) => responsse.json())
+    .then((response) => response.json())
     .then((data) => {
       return data[lh][qv];
     })
